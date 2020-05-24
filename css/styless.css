@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.sistema{
+    width: 1000px;
+    height: 600px;
+    background-color: blue;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    
+}
+.costado{
+    width: 350px;
+    height: 550px;
+    background-color: red;
+    position: absolute;
+    top: 24.5px;
+    right: 20px;
+}
+.head-costado{
+    width: 350px;
+    height: 100px;
+    background-color: orange;
+    position: absolute;
+}
+.costado-letra{
+    position: absolute;
+    left: 32%;
+    top: 25px;
+    font-size: 40px;
+}
+.producto{
+    position: absolute;
+    top: 24.5px;
+    font-size: x-large;
+    left: 1px;
+}
+.input-producto{
+    width: 500px;
+    height: 25px;
+    position: absolute;
+    left: 100px;
+    top: 24.5px;
+}
+.tabla-productos{
+    width: 600px;
+    height: 485px;
+    position: absolute;
+    left: 15px;
+    top: 90px;
+    background-color: peru;
+}
+table{
+    position: absolute;
+    left: 3px;
+}
+td{
+    border: 1px solid #333;
+    padding: 7px;
+}
+.texto{
+    font-size: 13px;
+}
+.abajo{
+    position: absolute;
+    top: 100px;
+    width: 350px;
+    height: 450px;
+    background-color: violet;
+}
